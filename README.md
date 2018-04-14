@@ -1,2 +1,2 @@
 # Project-01
-The first project
+This is the first project of out application.
